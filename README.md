@@ -2,6 +2,22 @@
 
 An Android app for effortless background location tracking.
 
+
+# LocaTrack 📍
+
+An Android app for effortless background location tracking.
+
+## Screenshots 📱
+
+| Status bar notification | Before starting service |
+|--------------------------|-------------------------|
+| ![Status bar notification](https://github.com/NarendranathReddyMaddikeri2007/Background-Location-Tracker/assets/93245481/483ce865-2c4b-4f91-9336-dc219189c689) | ![Before starting service](https://github.com/NarendranathReddyMaddikeri2007/Background-Location-Tracker/assets/93245481/c996c1f1-3a61-4306-89ab-0dcfbd0160c5) |
+
+| Location service stopped | Location Service Started |
+|--------------------------|-------------------------|
+| ![Location service stopped](https://github.com/NarendranathReddyMaddikeri2007/Background-Location-Tracker/assets/93245481/45dc5ad2-c45b-4119-a99f-6165f8d59bcb) | ![Location Service Started](https://github.com/NarendranathReddyMaddikeri2007/Background-Location-Tracker/assets/93245481/5a9c7849-cf57-4850-b07a-a851044d3541) |
+
+
 ## Getting Started 🛠️
 
 1. **Open the project in Android Studio.**
