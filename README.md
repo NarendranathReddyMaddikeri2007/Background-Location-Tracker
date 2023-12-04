@@ -2,11 +2,6 @@
 
 An Android app for effortless background location tracking.
 
-
-# LocaTrack 📍
-
-An Android app for effortless background location tracking.
-
 ## Screenshots 📱
 
 | Status bar notification | Before starting service |
